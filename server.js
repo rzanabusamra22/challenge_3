@@ -4,6 +4,8 @@ const port = 8080;
 
 app.use(express.static(__dirname + '/public'));
 
+
+//this should come from db !
 // app.get('/', (req, res) => {
 //     res.send('test')
 // })

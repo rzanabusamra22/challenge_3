@@ -4,7 +4,8 @@
   "description": "challange3",
   "main": "server.js",
   "scripts": {
-    "start": "node server"
+    "start": "node server.js",
+    "server": "nodemon server.js"
   },
   "repository": {
     "type": "git",
@@ -17,9 +18,10 @@
   },
   "homepage": "https://github.com/rzanabusamra22/challenge_3#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "material-ui": "^0.20.2"
   },
   "devDependencies": {
-    "@babel/preset-react": "^7.12.5"
+    "nodemon": "^2.0.6"
   }
 }
