@@ -1,0 +1,25 @@
+{
+  "name": "challenge_3",
+  "version": "1.0.0",
+  "description": "challange3",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rzanabusamra22/challenge_3.git"
+  },
+  "author": "rzan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rzanabusamra22/challenge_3/issues"
+  },
+  "homepage": "https://github.com/rzanabusamra22/challenge_3#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "@babel/preset-react": "^7.12.5"
+  }
+}
